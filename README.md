@@ -1,7 +1,12 @@
 # Transcription Index
 
-source        | transcript          | note
-------------- ----------------------| --------------------|------
-document1 [link](http://flickr.com)  |  | test1
-document2 [link](http://flickr.com)  | | test2
+
+
+
+
+transcription | note
+-----------------------------------|-------------------
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)  | test1
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)  | test2
+
 
