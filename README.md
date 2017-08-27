@@ -1,11 +1,7 @@
 # Transcription Index
 
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+source        | transcript          | note
+------------- ----------------------| --------------------|------
+document1 [link](http://flickr.com)  |  | test1
+document2 [link](http://flickr.com)  | | test2
 
-
-* document [link](http://example.com)
-* another document [link](http://example.com)
-* document collection [link](http://example.com)
